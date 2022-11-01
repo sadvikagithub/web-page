@@ -1,2 +1,1 @@
-# web-page
-my first repository in github
+print("hello world")
