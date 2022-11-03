@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> web page - youtube channel</title>
+  </head>
+<body>
+  <nav class="flex-div">
+    <div class="nav-left"></div>
+    <img scr="images/menu.png">
+    <img scr="images/logo.png">
+    <div class="nav-middle"></div>
+    <div class="nav-right"></div>
+    <img scr="images/upload.png">
+    <img scr="images/more.png">
+    <img scr="images/notification.png">
+    <img scr="images/jack.png">
+
+  </nav>
+</body>
+</html>
